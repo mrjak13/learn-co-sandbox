@@ -1,3 +1,7 @@
+require  "nokogiri"
+
+require "open-uri"
+
 Hi! 👋
 
 You've opened the IDE Sandbox. 🎉
